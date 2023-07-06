@@ -1,4 +1,4 @@
-![image](https://github.com/scr1im/googleWorkspaces/assets/89859500/3c66221c-b168-432d-beff-6dd1e0605c63)# googleWorkspaces
+# googleWorkspaces
  
 Programa para Eliminar cuentas de correo gmail by Scr1im
 
@@ -25,3 +25,8 @@ Para verificar el campo debe realizar los siguientes pasos:
 2. Dirigirse a campo de busqueda de cuentas de correo electronico (ubicado en la parte superior de la página)
 3. Click derecho inspeccionar código fuente
 ![image](https://github.com/scr1im/googleWorkspaces/assets/89859500/64c7652b-eb07-48c9-9c3c-55747a14e609)
+4. Realizar alguna busqueda y verificar el campo HTML que cambia (el path de button class = 'gb_Le gb_Ne')
+![image](https://github.com/scr1im/googleWorkspaces/assets/89859500/7a9609ff-8332-4b10-bd9a-745262886a7c)
+5. Confirmar el nombre de la clase y modificarlo en el código para que este pueda borrar la busqueda
+
+Les deseo muchos exitos..!!
