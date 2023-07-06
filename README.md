@@ -16,7 +16,7 @@ Modificar el path para el archivo .csv
 Recomendaciones de uso:
 1. Este programa es de uso personal y no debe usarse para motivos maliciosos.
 2. Debe estar monitoreando el programa debido a tiempos de respuesta por parte de google.
-3. Si el monitor es de menos de 20 pulgadas tener en cuenta que la ventana de selenium debe realizar zoom -(80%)
+3. Si el monitor es de menos de 20 pulgadas tener en cuenta que la ventana de selenium debe tener un zoom -(80%)
 
 Por último y más importante debe tener en cuenta que el path de la linea 82 cambia cada semana por politicas de google, por lo que debe verificar el campo del valor antes de ejecutar el programa.
 
